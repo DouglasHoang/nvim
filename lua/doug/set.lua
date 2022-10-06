@@ -1,0 +1,19 @@
+vim.opt.cursorline = true
+vim.opt.nu = true
+vim.opt.relativenumber = true
+vim.opt.hidden = true
+vim.opt.expandtab = true
+vim.opt.shiftwidth = 2
+vim.opt.tabstop = 2
+vim.opt.softtabstop = 2
+vim.opt.smartindent = true
+vim.opt.smartcase = true
+vim.opt.ignorecase = true
+vim.opt.undodir = "~/.vim/undodir"
+vim.opt.incsearch = true
+vim.opt.scrolloff = 8
+vim.opt.signcolumn = "yes"
+vim.opt.wrap = false
+vim.opt.hlsearch = false
+
+vim.g.mapleader = " "
